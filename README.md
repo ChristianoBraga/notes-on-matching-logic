@@ -1,5 +1,5 @@
 # Notes on Matching Logic
-(Under construction...)
+<img src="https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408059_960_720.png" width="100">
 
 _These notes reflect my, and my alone, current understanding about Matching Logic._
 
