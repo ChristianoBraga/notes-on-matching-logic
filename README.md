@@ -17,7 +17,7 @@ Matching Logic has a very nice relationship with First Order Logic with equality
 ```
 where `F = {∃z :s . σ(x1 :s1, . . . , xn :sn) = z | σ ∈ Σs1...sn,s} ` where `Σ` is a signature and `si` are sorts.
 
-A term rewrite system seem to have a straight forward representation too as rule application would be represented as `ϕ1 -> ϕ2`, with `ϕi` patterns.
+A term rewrite system seem to have a straight forward representation too as rule application seems to be represented as `ϕ1 -> ϕ2`, with `ϕi` patterns.
 
 ## What is Matching Logic?
 
