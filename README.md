@@ -5,7 +5,7 @@ _These notes reflect my, and my alone, current understanding about Matching Logi
 
 Matching Logic (ML) is the underlying logic of the [K Framework](https://github.com/runtimeverification/k): a language agnostic framework for programming language development, in a quite broad understanding of it. K is being developed at [Runtime Verification Inc](http://runtimeverification.com).
 
-In this notes I write down some of my understanding about ML in the hope that it will help me gain a better understanding of it. And maybe it can help other people too.
+In thise notes I write down some of my understanding about ML in the hope that it will help me gain a better understanding of it. And maybe it can help other people too.
 
 ## Why Matching Logic?
 
